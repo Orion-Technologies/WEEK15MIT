@@ -14,8 +14,8 @@ Working With Simple Components
 
 ## Aditional Projects
 
-[Refactoring ATM Live View](https://orion-technologies.github.io/Refactoring-ATM/)
-[Refactoring ATM repository](https://github.com/Orion-Technologies/Refactoring-ATM)
+- [Refactoring ATM Live View](https://orion-technologies.github.io/Refactoring-ATM/)
+- [Refactoring ATM repository](https://github.com/Orion-Technologies/Refactoring-ATM)
 
-[Working with APIs Live View](https://orion-technologies.github.io/API-FETCH-data/)
-[Working with APIs repository](https://github.com/Orion-Technologies/API-FETCH-data)
+- [Working with APIs Live View](https://orion-technologies.github.io/API-FETCH-data/)
+- [Working with APIs repository](https://github.com/Orion-Technologies/API-FETCH-data)
